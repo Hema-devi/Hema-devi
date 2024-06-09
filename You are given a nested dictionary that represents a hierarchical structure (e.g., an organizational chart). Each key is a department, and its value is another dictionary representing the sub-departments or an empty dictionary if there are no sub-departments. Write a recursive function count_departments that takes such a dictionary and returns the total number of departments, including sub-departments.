@@ -1,0 +1,23 @@
+def count_departments(departments):
+    """Recursively count the total number of departments."""
+    total = 1  # Initialize with the current department itself
+    for sub_department in departments.values():
+        if sub_department:  # Check if the sub-department is not empty
+            total += count_departments(sub_department)
+    return total
+org_chart = {
+    "Engineering": {
+        "Software": {},
+        "Hardware": {}
+    },
+    "Sales": {
+        "North": {},
+        "South": {
+            "Inside Sales": {},
+            "Field Sales": {}
+        }
+    },
+    "Finance": {}
+}
+
+print("Total number of departments:", count_departments(org_chart))
