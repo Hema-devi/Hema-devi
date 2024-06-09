@@ -1,0 +1,9 @@
+height = 7
+for i in range(height):
+    # Print the first and last columns
+    if i == 0 or i == height - 1:
+        print(" *       * ")
+    elif i == height // 2:
+        print(" * *   * * ")
+    else:
+        print(" *   *   * ")
