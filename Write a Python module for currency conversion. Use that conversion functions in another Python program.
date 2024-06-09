@@ -1,0 +1,6 @@
+import currency_conversion
+amount_usd = 100
+amount_eur = currency_conversion.usd_to_eur(amount_usd)
+print(f"{amount_usd} USD is equal to {amount_eur:.2f} EUR.")
+amount_gbp = currency_conversion.usd_to_gbp(amount_usd)
+print(f"{amount_usd} USD is equal to {amount_gbp:.2f} GBP.")
