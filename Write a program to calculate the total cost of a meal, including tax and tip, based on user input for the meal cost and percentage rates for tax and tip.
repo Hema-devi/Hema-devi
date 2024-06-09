@@ -1,0 +1,14 @@
+def calculate_total_cost(meal_cost, tax_rate, tip_rate):
+    tax_amount = meal_cost * (tax_rate / 100)
+    tip_amount = meal_cost * (tip_rate / 100)
+    total_cost = meal_cost + tax_amount + tip_amount
+    return 
+try:
+    meal_cost = float(input("Enter the cost of the meal: "))
+    tax_rate = float(input("Enter the tax rate (as a percentage): "))
+    tip_rate = float(input("Enter the tip rate (as a percentage): "))
+    
+    total_cost = calculate_total_cost(meal_cost, tax_rate, tip_rate)
+    print(f"The total cost of the meal is: ${total_cost:.2f}")
+except ValueError:
+    print("Please enter valid numbers for the meal cost, tax rate, and tip rate.")
