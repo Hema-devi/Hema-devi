@@ -1,10 +1,10 @@
 # Hi 👋, I'm Hemadevi
 
-### AI & Machine Learning Student | Software Developer
+### AI & Machine Learning Student
 
-I'm a final-year **B.E. CSE (Artificial Intelligence & Machine Learning)** student interested in building practical solutions using **AI, Machine Learning, and Software Development**.
+I'm a final-year **B.E. CSE (Artificial Intelligence & Machine Learning)** student interested in building practical solutions using **AI, Machine Learning, and Web Development**.
 
-* 💻 Interested in **AI/ML, Python, Web Development & Software Engineering**
+* 💻 Interested in **AI/ML, Python, Java & Web Development**
 * 🚀 Currently building **AI-powered and real-world applications**
 * 🌱 Continuously learning and improving my technical skills
 * 🎯 Aspiring to build innovative technology solutions
@@ -19,7 +19,7 @@ I'm a final-year **B.E. CSE (Artificial Intelligence & Machine Learning)** stude
 
 **Database:** MySQL, SQLite
 
-**Tools:** Git, GitHub, VS Code, Figma, Canva, Vercel
+**Tools:** Git, GitHub, VS Code, Figma, Canva, Vercel, Claude, Notion
 
 ### 🔗 Connect
 
