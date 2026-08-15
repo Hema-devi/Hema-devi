@@ -12,9 +12,13 @@ I'm a final-year **B.E. CSE (Artificial Intelligence & Machine Learning)** stude
 ### 🛠️ Skills
 
 **Languages:** Python, Java, JavaScript, SQL
+
 **AI/ML:** Machine Learning, TensorFlow, Keras, OpenCV, Pandas, Scikit-learn
+
 **Web:** HTML, CSS, JavaScript, Flask, FastAPI
+
 **Database:** MySQL, SQLite
+
 **Tools:** Git, GitHub, VS Code, Figma, Canva, Vercel
 
 ### 🔗 Connect
